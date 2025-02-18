@@ -104,9 +104,7 @@ Minimalist habit tracking app with powerful features 🎯
 - 🗄️ Offline-first architecture with Hive
 - 🔊 Voice input capabilities
 - 📊 Rich analytics and progress tracking
-- 🌙 Dark mode support
-- 🔄 Cloud sync capabilities
-- 📈 10K+ downloads
+
 
 ## 📝 Latest Medium Articles
 <!-- MEDIUM-STORY-LIST:START -->
