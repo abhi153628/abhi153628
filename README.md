@@ -53,7 +53,7 @@ class FlutterDeveloper {
 
 ## 🎯 Featured Projects
 
-### 🎸 Rhuon - Band Booking Platform
+### 🎸 Phuong - Band Booking Platform
 <div align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/rhuon_preview.png" alt="Rhuon App Preview" width="800"/>
 </div>
@@ -80,16 +80,6 @@ Minimalist habit tracking app with powerful features 🎯
 - 🔊 Voice input capabilities
 - 📊 Rich analytics and progress tracking
 
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ## 🎓 Continuous Learning
 
