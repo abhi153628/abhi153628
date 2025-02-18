@@ -10,10 +10,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
 ## 💫 About Me
 
 🎯 Passionate Flutter Developer crafting pixel-perfect, high-performance mobile experiences  
@@ -44,7 +40,7 @@ class FlutterDeveloper {
   ];
   
   List<String> getCurrentProjects() => [
-    "🎸 Rhuon - Band Booking Platform",
+    "🎸 Phuong - Band Booking Platform",
     "⏰ Tickyfy - Habit Tracker",
     "📱 Open Source Flutter Packages"
   ];
