@@ -75,7 +75,7 @@ class SeniorFlutterDeveloper {
   <img src="https://github.com/user-attachments/assets/ad3a2ea1-56f3-43d7-8c8c-ff5dc0c7892c" width="260" alt="Phuong Screenshot 2" />
 
 </div>
-<div align="center">
+
   <img src="https://github.com/user-attachments/assets/619bbcbe-0bb5-4e88-9b42-d6a363ba1d3d" width="260" alt="Phuong Screenshot 4" />
 </div>
 A revolutionary platform bridging local musicians with event organizers 🌟
