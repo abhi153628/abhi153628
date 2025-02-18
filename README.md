@@ -82,20 +82,9 @@ A revolutionary platform bridging local musicians with event organizers 🌟
 - 🔥 Firebase integration for real-time features
 - 💳 Secure payment gateway integration
 - 📱 Cross-platform support (iOS & Android)
-- 🚀 CI/CD pipeline with GitHub Actions
-- 🎯 99.9% crash-free users
-- ⚡ 4.8+ App Store rating
+- 🚀 Chat Implementation
 
 ### ⏰ Tickyfy - Habit Tracker
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/tickyfy1.png" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/tickyfy2.png" width="200"/></td>
-      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/tickyfy3.png" width="200"/></td>
-    </tr>
-  </table>
-</div>
 
 Minimalist habit tracking app with powerful features 🎯
 
@@ -108,17 +97,13 @@ Minimalist habit tracking app with powerful features 🎯
 
 ## 📝 Latest Medium Articles
 <!-- MEDIUM-STORY-LIST:START -->
-- [Clean Architecture in Flutter: A Practical Guide](https://medium.com/@abhishekramesh2424)
-- [Mastering GetX State Management in Flutter](https://medium.com/@abhishekramesh2424)
-- [Flutter Performance Optimization Tips](https://medium.com/@abhishekramesh2424)
+- [What's New in Flutter 3.29? A Must-Read for Developers!](https://medium.com/@abhishekramesh2424)
 <!-- MEDIUM-STORY-LIST:END -->
 
 ## 🎓 Continuous Learning & Achievements
 
 - 📚 Advanced Flutter Animation Mastery
 - 🏆 Top contributor in Flutter community
-- 💡 Regular speaker at Flutter meetups
-- 🌐 Published multiple Flutter packages
 - 📱 Successfully launched 10+ apps to production
 
 ## 💼 Professional Journey
@@ -138,8 +123,7 @@ graph LR
 <div align="center">
   
 💼 Open for freelance projects and collaborations  
-📧 Email: your.email@gmail.com  
-📱 Phone: +91-your-number  
+📧 Email: abhishekramesh2424@gmail.com    
 📍 Location: Kerala, India
   
 <img src="https://raw.githubusercontent.com/your-username/your-repo/main/flutter_wave.gif" width="200"/>
