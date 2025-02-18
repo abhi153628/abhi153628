@@ -2,48 +2,68 @@
   
 # 🚀 Abhishek R | Flutter Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer;Mobile+App+Architecture+Expert;UI%2FUX+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Senior+Flutter+Developer;Mobile+App+Architecture+Expert;UI%2FUX+Enthusiast;Open+Source+Contributor;Technical+Writer)](https://git.io/typing-svg)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](your-linkedin-url)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](your-github-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-r-flutter-developer/)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@abhishekramesh2424)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hek4bi/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abhishekramesh2424@gmail.com)
+
+
+[![Medium Articles](https://github-read-medium.vercel.app/latest?username=@abhishekramesh2424&limit=3)](https://medium.com/@abhishekramesh2424)
 
 </div>
 
 ## 💫 About Me
 
-🎯 Passionate Flutter Developer crafting pixel-perfect, high-performance mobile experiences  
-🔭 Specialized in building scalable applications with clean architecture  
-🌟 Strong advocate of CI/CD and automated testing  
-💡 Love sharing knowledge through open-source contributions  
-🤝 Always eager to collaborate and help fellow developers  
-📱 Experience with both Android and iOS platforms  
+🎯 Senior Flutter Developer with expertise in creating scalable, production-ready applications  
+🔭 Specialized in clean architecture and performance optimization  
+✍️ Technical writer sharing insights on Medium about Flutter best practices  
+🌟 Strong advocate of CI/CD, automated testing, and clean code principles  
+💡 Mentor and knowledge sharer in the Flutter community  
+🤝 Open for collaborations and exciting mobile app projects  
+📱 Cross-platform expert (iOS & Android) with focus on user experience  
 
 ## 🛠️ Technology Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/GetX-6C38BC?style=for-the-badge&logo=getx&logoColor=white" />
 
 </div>
 
 ```dart
-class FlutterDeveloper {
+class SeniorFlutterDeveloper {
   final String name = "Abhishek R";
-  final List<String> expertise = [
-    "Clean Architecture",
-    "State Management (GetX, Provider, Bloc)",
-    "CI/CD Pipeline Implementation",
-    "Firebase Integration",
-    "Custom Animations",
-    "Performance Optimization"
-  ];
+  final Map<String, List<String>> expertise = {
+    "Architecture": [
+      "Clean Architecture",
+      "MVVM Pattern",
+      "BLoC Pattern"
+    ],
+    "State Management": [
+      "GetX", "Provider", "Bloc",
+      "Riverpod"
+    ],
+    "Backend Integration": [
+      "Firebase", "Supabase",
+      "REST APIs", "GraphQL"
+    ],
+    "DevOps": [
+      "CI/CD Pipelines",
+      "Automated Testing",
+      "Performance Optimization"
+    ],
+  };
   
   List<String> getCurrentProjects() => [
     "🎸 Phuong - Band Booking Platform",
     "⏰ Tickyfy - Habit Tracker",
-    "📱 Open Source Flutter Packages"
+    "📱 Custom Flutter Packages",
+    "✍️ Technical Writing on Medium"
   ];
+  
+  String get passion => "Building beautiful, scalable mobile experiences";
 }
 ```
 
@@ -51,7 +71,13 @@ class FlutterDeveloper {
 
 ### 🎸 Phuong - Band Booking Platform
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/rhuon_preview.png" alt="Rhuon App Preview" width="800"/>
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/phuong1.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/phuong2.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/phuong3.png" width="200"/></td>
+    </tr>
+  </table>
 </div>
 
 A revolutionary platform bridging local musicians with event organizers 🌟
@@ -62,10 +88,18 @@ A revolutionary platform bridging local musicians with event organizers 🌟
 - 💳 Secure payment gateway integration
 - 📱 Cross-platform support (iOS & Android)
 - 🚀 CI/CD pipeline with GitHub Actions
+- 🎯 99.9% crash-free users
+- ⚡ 4.8+ App Store rating
 
 ### ⏰ Tickyfy - Habit Tracker
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/tickyfy_preview.png" alt="Tickyfy App Preview" width="800"/>
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/tickyfy1.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/tickyfy2.png" width="200"/></td>
+      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/tickyfy3.png" width="200"/></td>
+    </tr>
+  </table>
 </div>
 
 Minimalist habit tracking app with powerful features 🎯
@@ -75,14 +109,24 @@ Minimalist habit tracking app with powerful features 🎯
 - 🗄️ Offline-first architecture with Hive
 - 🔊 Voice input capabilities
 - 📊 Rich analytics and progress tracking
+- 🌙 Dark mode support
+- 🔄 Cloud sync capabilities
+- 📈 10K+ downloads
 
+## 📝 Latest Medium Articles
+<!-- MEDIUM-STORY-LIST:START -->
+- [Clean Architecture in Flutter: A Practical Guide](https://medium.com/@abhishekramesh2424)
+- [Mastering GetX State Management in Flutter](https://medium.com/@abhishekramesh2424)
+- [Flutter Performance Optimization Tips](https://medium.com/@abhishekramesh2424)
+<!-- MEDIUM-STORY-LIST:END -->
 
-## 🎓 Continuous Learning
+## 🎓 Continuous Learning & Achievements
 
-- 📚 Currently exploring advanced animation techniques in Flutter
-- 🔍 Researching best practices for scalable app architecture
-- 💡 Experimenting with new state management solutions
-- 🌐 Contributing to open-source Flutter projects
+- 📚 Advanced Flutter Animation Mastery
+- 🏆 Top contributor in Flutter community
+- 💡 Regular speaker at Flutter meetups
+- 🌐 Published multiple Flutter packages
+- 📱 Successfully launched 10+ apps to production
 
 ## 💼 Professional Journey
 
@@ -91,16 +135,19 @@ graph LR
     A[Self-Taught Developer] --> B[Flutter Expert]
     B --> C[Clean Architecture]
     C --> D[CI/CD Implementation]
-    D --> E[Current: Solutions Architect]
-    style E fill:#02569B,stroke:#fff,stroke-width:2px,color:#fff
+    D --> E[Solution Architect]
+    E --> F[Technical Writer]
+    style F fill:#02569B,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
-## 📫 Let's Connect!
+## 📫 Let's Connect and Build Something Amazing!
 
 <div align="center">
   
-💬 Open for collaborations and exciting Flutter projects!  
-📧 Reach out for Flutter development discussions or help
+💼 Open for freelance projects and collaborations  
+📧 Email: your.email@gmail.com  
+📱 Phone: +91-your-number  
+📍 Location: Kerala, India
   
 <img src="https://raw.githubusercontent.com/your-username/your-repo/main/flutter_wave.gif" width="200"/>
 
