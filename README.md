@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-🎯 Senior Flutter Developer with expertise in creating scalable, production-ready applications  
+🎯 Flutter Developer with expertise in creating scalable, production-ready applications  
 🔭 Specialized in clean architecture and performance optimization  
 ✍️ Technical writer sharing insights on Medium about Flutter best practices  
 🌟 Strong advocate of CI/CD, automated testing, and clean code principles  
