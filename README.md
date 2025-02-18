@@ -73,7 +73,8 @@ class SeniorFlutterDeveloper {
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/phuong1.png" width="200"/></td>
+      <td><img src="![2](https://github.com/user-attachments/assets/21216649-de54-4e76-8061-7fbe51923e1a)
+" width="200"/></td>
       <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/phuong2.png" width="200"/></td>
       <td><img src="https://raw.githubusercontent.com/your-username/your-repo/main/phuong3.png" width="200"/></td>
     </tr>
